@@ -1,4 +1,4 @@
-# 🔄 Wealth MIS Analytics - Tableau → Power BI Migration
+# 🔄 Wealth MIS Analytics 
 
 ### From Excel MIS → Tableau → Power BI | A Real BFSI Migration Story
 
