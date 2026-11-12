@@ -2,7 +2,7 @@
 
 ### From Excel MIS → Tableau → Power BI | A Real BFSI Migration Story
 
-This project demonstrates how an enterprise Wealth Management MIS was migrated from **manual Excel reporting** to **Tableau**, and then completely rebuilt in **Power BI** while preserving the same business logic, KPIs, and executive reporting standards.
+This project demonstrates how an enterprise Wealth Management MIS was migrated from **manual Excel reporting** to completely rebuilt in **Power BI** while preserving the same business logic, KPIs, and executive reporting standards.
 
 Instead of redesigning reports from scratch, the objective was to prove that a governed BI solution should remain consistent regardless of the BI platform.
 
